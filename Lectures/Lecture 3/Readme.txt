@@ -1,0 +1,1 @@
+Open these in draw.io to view the diagrams, or see my lecture slides for a graphical representation.
