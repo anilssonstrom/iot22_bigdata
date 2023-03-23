@@ -1,0 +1,5 @@
+Med Python:
+Hur många ToDo's finns det totalt?
+Hur många ToDo's är klar-markerade? ("Completed")
+
+Svårare bonusuppgift: Vilket användar-id har klarat av flest ToDo's?
